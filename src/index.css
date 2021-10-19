@@ -1,1 +1,12 @@
+body {
+  font-family: "Courier New", Courier, monospace;
+  color: black;
+}
 
+.link {
+  color: #ff0000;
+} /* CSS link color (red) */
+
+.link:hover {
+  color: #00ff00;
+} /* CSS link hover (green) */

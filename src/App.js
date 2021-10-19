@@ -3,9 +3,12 @@ import Home from "./home/Home";
 import About from "./about/About";
 import Contact from "./contact/Contact";
 import NotFound from "../src/errors/NotFound";
+import Header from "./header/Header";
 
 function App() {
   return (
+    <>
+    <Header />
     <Router>
     <Switch>
     <Route exact path="/">
@@ -25,6 +28,7 @@ function App() {
       </Route>
     </Switch>
     </Router>
+    </>
   );
 }
 
