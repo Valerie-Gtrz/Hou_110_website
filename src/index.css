@@ -3,10 +3,24 @@ body {
   color: black;
 }
 
+h1{
+font-size: 4em;
+}
+
 .link {
-  color: #ff0000;
+    font-size: larger;
+  color: #000000;
 } /* CSS link color (red) */
 
 .link:hover {
-  color: #00ff00;
+  color: #ff9d00;
 } /* CSS link hover (green) */
+
+.element {
+  flex-grow: .3;
+}
+
+a {
+  font-style: none;
+}
+

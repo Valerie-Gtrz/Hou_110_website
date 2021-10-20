@@ -1,7 +1,8 @@
+
 function Title() {
     return (
       <>
-        <h1>Houston 110 Cares</h1>
+        <h1><a className="nav-link active link" href="/home">Houston 110 Cares</a></h1>
       </>
     );
   }
