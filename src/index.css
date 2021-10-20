@@ -7,6 +7,9 @@ h1 {
   font-size: 4em;
 }
 
+img{
+  width: 100%;
+}
 
 
 .link {
@@ -25,3 +28,8 @@ h1 {
 a {
   font-style: none;
 }
+
+
+
+
+
