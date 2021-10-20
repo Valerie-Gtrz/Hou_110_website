@@ -3,12 +3,14 @@ body {
   color: black;
 }
 
-h1{
-font-size: 4em;
+h1 {
+  font-size: 4em;
 }
 
+
+
 .link {
-    font-size: larger;
+  font-size: larger;
   color: #000000;
 } /* CSS link color (red) */
 
@@ -17,10 +19,9 @@ font-size: 4em;
 } /* CSS link hover (green) */
 
 .element {
-  flex-grow: .3;
+  flex-grow: 0.3;
 }
 
 a {
   font-style: none;
 }
-
