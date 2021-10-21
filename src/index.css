@@ -38,12 +38,15 @@ a {
 
 
 hr{
+  color: black;
   margin-left: 30px;
 }
 
 .container {
   display: flex; /* or inline-flex */
 }
+
+
 
 
 
