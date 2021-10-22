@@ -13,7 +13,10 @@ function NavBar() {
             </a>
           </li>
           <li className="mt-2">
-            <span className="iconify color-black" data-icon="ph:git-commit-light"></span>
+            <span
+              className="iconify color-black"
+              data-icon="ph:git-commit-light"
+            ></span>
           </li>
           <li className="nav-item">
             <a className="nav-link active link" href="/about">
@@ -21,7 +24,10 @@ function NavBar() {
             </a>
           </li>
           <li className="mt-2">
-            <span className="iconify color-black" data-icon="ph:git-commit-light"></span>
+            <span
+              className="iconify color-black"
+              data-icon="ph:git-commit-light"
+            ></span>
           </li>
           <li className="nav-item">
             <a className="nav-link active link" href="/contact">
@@ -31,9 +37,8 @@ function NavBar() {
         </ul>
       </div>
       <div>
-      <hr />
+        <hr />
       </div>
-      
     </>
   );
 }

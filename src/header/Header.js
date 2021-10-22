@@ -3,7 +3,7 @@ import NavBar from "./NavBar";
 
 function Header() {
   return (
-    <div className="container-fluid text-center">
+    <div className="container-fluid">
         <header className="row row-2">
         <div className="row">
       <Title />
